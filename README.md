@@ -1,5 +1,5 @@
 # Hacktober-
-PR1
-PR2
-PR3
-PR4
+PR-1
+PR-2
+PR-3
+PR-4
